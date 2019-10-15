@@ -1,0 +1,18 @@
+# Utils messages
+Utils:
+  console_message: "&cYou can't run this command in console!"
+  prefix: "&c&l[!] "
+  permission: "&cYou don't have permissions!"
+# Commands messages & more
+Commands:
+  fly_enable: "&6You are now flying!"
+  fly_disable: "&7You are not flying!"
+# Rules message here
+RulesMessage:
+  - '&e&l************************************************'
+  - ''
+  - '&a&lWelcome to &c&lRULES SECTION!'
+  - ''
+  - '&4&lDONT &fFlood and Spam'
+  - ''
+  - '&e&l************************************************'

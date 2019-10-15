@@ -1,0 +1,21 @@
+name: SkPvP
+version: ${project.version}
+main: skpvp.skpvp.SkPvP
+api-version: 1.13
+depend: [Vault]
+authors: [AeroSama7, _aero98]
+description: SkPvP plugin, battle in sky.
+website: aerosama7.tech
+commands:
+  fly:
+    usage: /<command>
+    description: Run fly command
+  gmp:
+    usage: /<command>
+    description: Run gamemodepanel command
+  rules:
+    usage: /<command>
+    description: Run rules command
+  token:
+    usage: /<command>
+    description: Run token commands
